@@ -17,7 +17,7 @@ class OrderTrackingPage extends StatefulWidget {
 }
 
 class OrderTrackingPageState extends State<OrderTrackingPage> {
-  String googleapi ='AIzaSyBK0ZEJV2-jJ3EtVNepo0_MIA0kDCx84E4';
+  String googleapi ='Enter Your KEy';
   static const LatLng destination = LatLng(19.049542394223693, 73.01570489250031);
   static const LatLng sourceLocation = LatLng(19.029474915484236, 73.0156972709885);
 
