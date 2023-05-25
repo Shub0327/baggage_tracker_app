@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767221750547",
+    "firebase_url": "https://iot1-55f24-default-rtdb.firebaseio.com",
+    "project_id": "iot1-55f24",
+    "storage_bucket": "iot1-55f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767221750547:android:edac04d742f7925955d8e6",
+        "android_client_info": {
+          "package_name": "com.example.baggage_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767221750547-arn7maemsdlf18up5010gph9lj9k54qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86RePSXT3A3ZdMA8CbMK2FNjxwYZUT9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767221750547-arn7maemsdlf18up5010gph9lj9k54qf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767221750547-btjcid2rm1ija0qa6n1rpso6p3mml1ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.baggageTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
